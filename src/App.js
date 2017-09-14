@@ -8,6 +8,10 @@ class App extends Component {
         <div className="header">
           <h2>Stripe</h2>
         </div>
+
+        <form action="/your server side code" method="POST">
+          <script></script>
+        </form>
       </div>
     );
   }
