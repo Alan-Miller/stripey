@@ -2,7 +2,10 @@
   "name": "stripey",
   "version": "0.1.0",
   "private": true,
+  "main": "srvr/index.js",
   "dependencies": {
+    "body-parser": "^1.18.1",
+    "cors": "^2.8.4",
     "node-sass-chokidar": "0.0.3",
     "npm-run-all": "^4.1.1",
     "react": "^15.6.1",
